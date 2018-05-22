@@ -1,4 +1,4 @@
-# React Server Side Rendering
+# Isomorphic Application - React Server Side Rendering
 
 Install dependencies with
 ```npm i```
